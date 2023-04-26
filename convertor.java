@@ -13,7 +13,6 @@ public class convertor
         double amount;
         amount = sc.nextDouble();
         double result = ExRate*amount;
-        System.out.print("The value of converted currency is : "+result);      
-
+        System.out.print("The value of converted currency is : "+result);
     }
 }
